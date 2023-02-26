@@ -11,6 +11,7 @@ int[] array = Array(num);
 //Console.WriteLine($"[{String.Join(", ", array)}]");
 
 int[] Array(int size)
+
 {
     int[] result = new int[size];
     for (int i = 0; i < size; i++)
